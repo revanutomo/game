@@ -1,0 +1,6 @@
+{
+  "name": "Permainan Revan Utomo – Dunia Bermain Anak",
+  "description": "Platform edukasi interaktif anak usia 3–6 tahun: huruf, angka, berhitung, logika, kreativitas, dan adab ceria bersama Revan & Bimo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
